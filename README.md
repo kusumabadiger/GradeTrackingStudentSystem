@@ -160,6 +160,4 @@ CGPA                     6.33
 - Add a Teacher class that also extends `Person`
 - Semester-wise marks and credits-based CGPA
 
-##Contributors
-- Prakya Kuncham
-- Kusuma Badiger
+
